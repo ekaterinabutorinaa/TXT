@@ -1,1 +1,10 @@
-
+Id: 1
+Summary: There is no field "email"  in the registration form
+Actual_result: No email field
+Expected_result: There is an email field
+Steps_to_reproduce: 1. Open the registration form
+Reproducible: Always
+Severity: Smoke
+Priority: ASAP
+Symptom: Variance from spec
+Status: Open
