@@ -1,0 +1,6 @@
+1) skill_1 - "Terminal"
+2) skill_2 - "Java Script"
+3) skill_3 - "Git Hub"
+4) skill_4 - "Postman"
+5) skill_5 - "SQL"
+6) skill_6 - "Jmeter"
