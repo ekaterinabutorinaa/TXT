@@ -1,0 +1,5 @@
+1) Name - Ekaterina"
+2) Surname - Butorina"
+3) Age - 27"
+4) Count pets - 1"
+5) Future desired salary - 500$
